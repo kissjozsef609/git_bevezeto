@@ -1,2 +1,2 @@
-# git_bevezrto
+# git_bevezeto
 Megismerkedünk a git használatával
